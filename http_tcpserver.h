@@ -2,7 +2,8 @@
 #define INCLUDED_HTTP_TCPSERVER
 
 #include <stdio.h>
-#include <winsock.h>
+#include <WinSock2.h>
+#include <WS2tcpip.h>
 #include <stdlib.h>
 #include <string>
 
