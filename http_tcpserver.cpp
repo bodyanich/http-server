@@ -1,7 +1,6 @@
 #include <http_tcpserver.h>
 #include <iostream>
 #include <sstream>
-#include <unistd.h>
 
 namespace
 {
