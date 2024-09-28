@@ -1,5 +1,8 @@
 .vscode/
+.vs/
 cmake-build/
+CMakeSettings.json
+out/
 *.log*
 *.o
 *.exe
