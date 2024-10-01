@@ -4,8 +4,8 @@
 
 namespace
 {
-    // size of buffer to receive a message from client
-    const int BUFFER_SIZE = 30720;
+
+    constexpr int BUFFER_SIZE = 30720;
 
     void log(const std::string &message)
     {
